@@ -1,4 +1,4 @@
-# Carteira Já 📊
+# Aloca Pro 📊
 
 Plataforma web para **gestão, acompanhamento e análise de investimentos**, desenvolvida para centralizar informações financeiras e oferecer uma visão clara da evolução patrimonial do investidor.
 
