@@ -54,6 +54,12 @@ A plataforma contará com dois níveis de acesso:
 
 O controle de permissões será realizado no backend, considerando o status da assinatura e as funcionalidades disponíveis em cada plano.
 
+## 🗄️ Modelagem de dados
+
+O diagrama entidade-relacionamento (ERD) do projeto, com as entidades de usuários, assinaturas, carteiras, ativos, operações e metas de alocação, está disponível no Lucidchart:
+
+👉 [Visualizar ERD](https://lucid.app/lucidchart/9d773c10-9c1a-4a43-815b-08f155dd1e82/edit?viewport_loc=-2278%2C-1258%2C3248%2C1742%2C0_0&invitationId=inv_ea594b79-c9e8-4620-8245-5955682a2e01)
+
 ## 🛠️ Stack tecnológica
 
 ### Frontend
